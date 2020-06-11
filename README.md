@@ -8,6 +8,8 @@ Machines are the best teachers when it comes to pure calculations and complex lo
 
 Graphical User Interface	(GUI):
 
+<img src="https://github.com/AhmadKNaji/Chess-Ai-Java/blob/master/JChess%20Images/Gui.png">
+
 Jchess has a simple GUI that is easy to use and provides practicality. The user can easily select their favorable preferences. 
 
 
