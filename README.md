@@ -5,6 +5,12 @@
 Chess engines have been a crucial part in the progression of chess game theories and discovering ai limitations. People all around the world depend on chess engines to learn chess and improve their overall thinking process.
 Machines are the best teachers when it comes to pure calculations and complex logic processes. Therefore, we should embrace ai and harness its full potential to further developing extents.
 
+<b><u>What is JChess:</u></b>
+
+<p>
+JChess is a chess open source engine based on the Java programming language using an external library (guava). It is a way for new chess players to further develop their chess skills and consequently enhancing their problem solving skills.
+JChess is a user friendly program that allows users to easily initiate a chess game and choose their side of the board and play the game whilst learning best moves. 
+</p>
 
 <b><u>Graphical User Interface	(GUI):</u></b>
 
