@@ -52,4 +52,4 @@ Jchess keeps track of all movements on the board including pieces that have been
 Jchess allows users to setup a game consisting of either a “Human” or “Computer” player, and allows to specify the computer’s search depth, this search depth feature increases difficulty of the game against the computer as the value increases.
 </p>
 
-# Any contributions to this project is more than welcome and encouraged upon.
+<strong> Any contributions to this project is more than welcome and encouraged upon. </strong>
